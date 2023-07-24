@@ -1,0 +1,29 @@
+{
+  "v1-lvl10-010-dir": {
+    "cnf-lvl20-010-dir": {
+      "php-lvl30-010-dir": "3040-10-5115-scr-msv-sd-aws-php-cnf-v0-0-01-lvl40-010-fil.yaml",
+      "pyt-lvl30-020-dir": "3040-10-5115-scr-msv-sd-aws-pyt-cnf-v0-0-01-lvl40-010-fil.yaml",
+      "typ-lvl30-030-dir": "3040-10-5115-scr-msv-sd-aws-typ-cnf-v0-0-01-lvl40-010-fil.yaml"
+    },
+    "dpl-lvl20-020-dir": {
+      "php-lvl30-010-dir": "3040-10-5115-scr-msv-sd-aws-php-dpl-v0-0-01-lvl40-010-fil.yaml",
+      "pyt-lvl30-020-dir": "3040-10-5115-scr-msv-sd-aws-pyt-dpl-v0-0-01-lvl40-010-fil.yaml",
+      "typ-lvl30-030-dir": "3040-10-5115-scr-msv-sd-aws-typ-dpl-v0-0-01-lvl40-010-fil.yaml"
+    },
+    "hlm-lvl20-030-dir": {
+      "php-lvl30-010-dir": "3040-10-5115-scr-msv-sd-aws-php-hlm-v0-0-01-lvl40-010-fil.yaml",
+      "pyt-lvl30-020-dir": "3040-10-5115-scr-msv-sd-aws-pyt-hlm-v0-0-01-lvl40-010-fil.yaml",
+      "typ-lvl30-030-dir": "3040-10-5115-scr-msv-sd-aws-typ-hlm-v0-0-01-lvl40-010-fil.yaml"
+    },
+    "pfl-lvl20-040-dir": {
+      "php-lvl30-010-dir": "3040-10-5115-scr-msv-sd-aws-php-pfl-v0-0-01-lvl40-010-fil.yaml",
+      "pyt-lvl30-020-dir": "3040-10-5115-scr-msv-sd-aws-pyt-pfl-v0-0-01-lvl40-010-fil.yaml",
+      "typ-lvl30-030-dir": "3040-10-5115-scr-msv-sd-aws-typ-pfl-v0-0-01-lvl40-010-fil.yaml"
+    },
+    "svc-lvl20-050-dir": {
+      "php-lvl30-010-dir": "3040-10-5115-scr-msv-sd-aws-php-svc-v0-0-01-lvl40-010-fil.yaml",
+      "pyt-lvl30-020-dir": "3040-10-5115-scr-msv-sd-aws-pyt-svc-v0-0-01-lvl40-010-fil.yaml",
+      "typ-lvl30-030-dir": "3040-10-5115-scr-msv-sd-aws-typ-svc-v0-0-01-lvl40-010-fil.yaml"
+    }
+  }
+}
