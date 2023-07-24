@@ -8,7 +8,7 @@
     "msv": {
       "aliasNameKEY": "none",
       "resourceNameKEY": "ssp-no-us-en-lo-2040-10-msv-sd",
-      "fqridKEY": "2040-10-5120-ccr-msv-sd-aws",
+      "cfqridKEY": "2040-10-5120-ccr-msv-sd-aws",
       "accessTypeKEY": "get-post",
       "stackNameKEY": "2040-10-5120-ccr-msv-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
       "deploymentOrderNumber5700KEY": "5715",
@@ -23,7 +23,7 @@
           "rol": {
             "aliasNameKEY": "none",
             "resourceNameKEY": "ssp-gp-no-us-en-lo-2040-10-ub-no-us-en-lo-3040-10-rol-sd",
-            "fqridKEY": "3040-10-5710-fcr-rol-sd-aws",
+            "cfqridKEY": "3040-10-5710-fcr-rol-sd-aws",
             "accessTypeKEY": "none",
             "stackNameKEY": "3040-10-5710-fcr-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
             "deploymentOrderNumber5700KEY": "5710",
@@ -31,7 +31,7 @@
             "pol": {
               "aliasNameKEY": "none",
               "resourceNameKEY": "ssp-gp-no-us-en-lo-2040-10-ub-gp-no-us-en-lo-3040-10-pol-sd",
-              "fqridKEY": "3040-10-5705-jcr-pol-sd-aws",
+              "cfqridKEY": "3040-10-5705-jcr-pol-sd-aws",
               "accessTypeKEY": "none",
               "stackNameKEY": "3040-10-5705-jcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
               "deploymentOrderNumber5700KEY": "5705",
@@ -39,7 +39,7 @@
               "msv": {
                 "aliasNameKEY": "Aethos",
                 "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-msv-sd",
-                "fqridKEY": "3040-10-5515-ccr-msv-sd-aws",
+                "cfqridKEY": "3040-10-5515-ccr-msv-sd-aws",
                 "accessTypeKEY": "get-post",
                 "stackNameKEY": "3040-10-5515-ccr-msv-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                 "deploymentOrderNumber5500KEY": "5515",
@@ -56,7 +56,7 @@
                     "rol": {
                       "aliasNameKEY": "none",
                       "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-ua-p-r-no-us-en-lo-3040-10-rol-sd",
-                      "fqridKEY": "3040-10-5510-fcr-rol-sd-aws",
+                      "cfqridKEY": "3040-10-5510-fcr-rol-sd-aws",
                       "accessTypeKEY": "none",
                       "stackNameKEY": "3040-10-5510-fcr-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                       "deploymentOrderNumber5500KEY": "5510",
@@ -64,7 +64,7 @@
                       "pol": {
                         "aliasNameKEY": "none",
                         "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-ua-p-r-no-us-en-lo-3040-10-pol-sd",
-                        "fqridKEY": "3040-10-5505-jcr-pol-sd-aws",
+                        "cfqridKEY": "3040-10-5505-jcr-pol-sd-aws",
                         "accessTypeKEY": "none",
                         "stackNameKEY": "3040-10-5505-jcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                         "deploymentOrderNumber5500KEY": "5505",
@@ -72,7 +72,7 @@
                         "msv": {
                           "aliasNameKEY": "Techlon",
                           "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-msv-sd",
-                          "fqridKEY": "3040-10-5115-mcr-msv-sd-aws",
+                          "cfqridKEY": "3040-10-5115-mcr-msv-sd-aws",
                           "accessTypeKEY": "post",
                           "stackNameKEY": "3040-10-5115-mcr-msv-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                           "deploymentOrderNumber5100KEY": "5115",
@@ -91,7 +91,7 @@
                               "rol": {
                                 "aliasNameKEY": "none",
                                 "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-rol-sd",
-                                "fqridKEY": "3040-10-5110-pcr-rol-sd-aws",
+                                "cfqridKEY": "3040-10-5110-pcr-rol-sd-aws",
                                 "accessTypeKEY": "none",
                                 "stackNameKEY": "3040-10-5110-pcr-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                 "deploymentOrderNumber5100KEY": "5110",
@@ -99,7 +99,7 @@
                                 "pol": {
                                   "aliasNameKEY": "none",
                                   "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-pol-sd",
-                                  "fqridKEY": "3040-10-5105-scr-pol-sd-aws",
+                                  "cfqridKEY": "3040-10-5105-scr-pol-sd-aws",
                                   "accessTypeKEY": "none",
                                   "stackNameKEY": "3040-10-5105-scr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                   "deploymentOrderNumber5100KEY": "5105",
@@ -127,7 +127,7 @@
                               "rol": {
                                 "aliasNameKEY": "none",
                                 "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-account-number-3040-10-rol-sd",
-                                "fqridKEY": "3040-10-5210-ccr-rol-sd-aws",
+                                "cfqridKEY": "3040-10-5210-ccr-rol-sd-aws",
                                 "accessTypeKEY": "none",
                                 "stackNameKEY": "3040-10-5210-ccr-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                 "deploymentOrderNumber5200KEY": "5210",
@@ -135,7 +135,7 @@
                                 "pol": {
                                   "aliasNameKEY": "none",
                                   "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-account-number-3040-10-pol-sd",
-                                  "fqridKEY": "3040-10-5205-fcr-pol-sd-aws",
+                                  "cfqridKEY": "3040-10-5205-fcr-pol-sd-aws",
                                   "accessTypeKEY": "none",
                                   "stackNameKEY": "3040-10-5205-fcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                   "deploymentOrderNumber5200KEY": "5205",
@@ -143,7 +143,7 @@
                                   "sec": {
                                     "aliasNameKEY": "none",
                                     "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-account-number-3040-10-sec-sd",
-                                    "fqridKEY": "3040-10-5215-jcr-sec-sd-aws",
+                                    "cfqridKEY": "3040-10-5215-jcr-sec-sd-aws",
                                     "accessTypeKEY": "none",
                                     "stackNameKEY": "3040-10-5215-jcr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                     "deploymentOrderNumber5200KEY": "5215",
@@ -162,7 +162,7 @@
                                         "dtn": {
                                           "aliasNameKEY": "Lumina",
                                           "resourceNameKEY": "user-account-number-3040-10-dtn-sd",
-                                          "fqridKEY": "3040-10-3145-jjr-dtn-sd-aws",
+                                          "cfqridKEY": "3040-10-3145-jjr-dtn-sd-aws",
                                           "accessTypeKEY": "none",
                                           "stackNameKEY": "3040-10-3145-jjr-dtn-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                           "deploymentOrderNumber5200KEY": "1111",
@@ -190,7 +190,7 @@
                     "rol": {
                       "aliasNameKEY": "none",
                       "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-ua-p-w-no-us-en-lo-3040-10-rol-sd",
-                      "fqridKEY": "3040-10-5610-ccr-rol-sd-aws",
+                      "cfqridKEY": "3040-10-5610-ccr-rol-sd-aws",
                       "accessTypeKEY": "none",
                       "stackNameKEY": "3040-10-5610-ccr-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                       "deploymentOrderNumber5600KEY": "5610",
@@ -198,7 +198,7 @@
                       "pol": {
                         "aliasNameKEY": "none",
                         "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-ua-p-w-no-us-en-lo-3040-10-pol-sd",
-                        "fqridKEY": "3040-10-5605-fcr-pol-sd-aws",
+                        "cfqridKEY": "3040-10-5605-fcr-pol-sd-aws",
                         "accessTypeKEY": "none",
                         "stackNameKEY": "3040-10-5605-fcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                         "deploymentOrderNumber5600KEY": "5605",
@@ -206,7 +206,7 @@
                         "msv": {
                           "aliasNameKEY": "Synapse",
                           "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-msv-sd",
-                          "fqridKEY": "3040-10-5320-jcr-msv-sd-aws",
+                          "cfqridKEY": "3040-10-5320-jcr-msv-sd-aws",
                           "accessTypeKEY": "post",
                           "stackNameKEY": "3040-10-5320-jcr-msv-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                           "deploymentOrderNumber5300KEY": "5320",
@@ -225,7 +225,7 @@
                               "rol": {
                                 "aliasNameKEY": "none",
                                 "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-registration-image-3040-10-rol-sd",
-                                "fqridKEY": "3040-10-5310-mcr-rol-sd-aws",
+                                "cfqridKEY": "3040-10-5310-mcr-rol-sd-aws",
                                 "accessTypeKEY": "none",
                                 "stackNameKEY": "3040-10-5310-mcr-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                 "deploymentOrderNumber5300KEY": "5310",
@@ -233,7 +233,7 @@
                                 "pol": {
                                   "aliasNameKEY": "none",
                                   "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-registration-image-3040-10-pol-sd",
-                                  "fqridKEY": "3040-10-5305-pcr-pol-sd-aws",
+                                  "cfqridKEY": "3040-10-5305-pcr-pol-sd-aws",
                                   "accessTypeKEY": "none",
                                   "stackNameKEY": "3040-10-5305-pcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                   "deploymentOrderNumber5300KEY": "5305",
@@ -241,7 +241,7 @@
                                   "sec": {
                                     "aliasNameKEY": "none",
                                     "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-registration-image-3040-10-sec-sd",
-                                    "fqridKEY": "3040-10-5315-scr-sec-sd-aws",
+                                    "cfqridKEY": "3040-10-5315-scr-sec-sd-aws",
                                     "accessTypeKEY": "none",
                                     "stackNameKEY": "3040-10-5315-scr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                     "deploymentOrderNumber5300KEY": "5315",
@@ -253,7 +253,7 @@
                                         "bkt": {
                                           "aliasNameKEY": "Helios",
                                           "resourceNameKEY": "user-registration-image-[mmm]-[yy]-3040-10-bkt-sd",
-                                          "fqridKEY": "3040-10-720-mcr-bkt-sd-aws",
+                                          "cfqridKEY": "3040-10-720-mcr-bkt-sd-aws",
                                           "accessTypeKEY": "none",
                                           "stackNameKEY": "3040-10-720-mcr-bkt-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                           "deploymentOrderNumber5300KEY": "1111",
@@ -276,7 +276,7 @@
                               "rol": {
                                 "aliasNameKEY": "none",
                                 "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-account-number-3040-10-rol-sd",
-                                "fqridKEY": "3040-10-5410-ccr-rol-sd-aws",
+                                "cfqridKEY": "3040-10-5410-ccr-rol-sd-aws",
                                 "accessTypeKEY": "none",
                                 "stackNameKEY": "3040-10-5410-ccr-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                 "deploymentOrderNumber5400KEY": "5410",
@@ -284,7 +284,7 @@
                                 "rol": {
                                   "aliasNameKEY": "none",
                                   "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-account-number-3040-10-pol-sd",
-                                  "fqridKEY": "3040-10-5405-fcr-pol-sd-aws",
+                                  "cfqridKEY": "3040-10-5405-fcr-pol-sd-aws",
                                   "accessTypeKEY": "none",
                                   "stackNameKEY": "3040-10-5405-fcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                   "deploymentOrderNumber5400KEY": "5405",
@@ -292,7 +292,7 @@
                                   "sec": {
                                     "aliasNameKEY": "none",
                                     "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-account-number-3040-10-sec-sd",
-                                    "fqridKEY": "3040-10-5415-jcr-sec-sd-aws",
+                                    "cfqridKEY": "3040-10-5415-jcr-sec-sd-aws",
                                     "accessTypeKEY": "none",
                                     "stackNameKEY": "3040-10-5415-jcr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                     "deploymentOrderNumber5400KEY": "5415",
@@ -311,7 +311,7 @@
                                         "dtn": {
                                           "aliasNameKEY": "Lumina",
                                           "resourceNameKEY": "user-account-number-3040-10-dtn-sd",
-                                          "fqridKEY": "3040-10-3145-jjr-dtn-sd-aws",
+                                          "cfqridKEY": "3040-10-3145-jjr-dtn-sd-aws",
                                           "accessTypeKEY": "none",
                                           "stackNameKEY": "3040-10-3145-jjr-dtn-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
                                           "deploymentOrderNumber5400KEY": "1111",
