@@ -35,7 +35,8 @@
             "rvb-lvl60-070-dir": "3040-10-5105-ycr-pol-sd-aws-dep-rvb-v0-0-01-lvl70-010-fil.json",
             "stk-lvl60-080-dir": "3040-10-5105-ycr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
           }
-        }
+        },
+        "stk-lvl40-030-dir": "3040-10-5100-all-leg-sd-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
       },
       "3040-10-5200-bll-leg-sd-aws-lvl30-010-dir": {
         "mre-lvl40-010-dir": {
@@ -69,7 +70,8 @@
             "rvb-lvl60-070-dir": "3040-10-5215-jcr-sec-sd-aws-dep-rvb-v0-0-01-lvl70-010-fil.json",
             "stk-lvl60-080-dir": "3040-10-5215-jcr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
           }
-        }
+        },
+        "stk-lvl40-020-dir": "3040-10-5200-bll-leg-sd-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
       },
       "3040-10-5300-cll-leg-sd-aws-lvl30-010-dir": {
         "ere-lvl40-010-dir": {
@@ -115,7 +117,8 @@
             "rvb-lvl60-070-dir": "3040-10-5315-scr-sec-sd-aws-dep-rvb-v0-0-01-lvl70-010-fil.json",
             "stk-lvl60-080-dir": "3040-10-5315-scr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
           }
-        }
+        },
+        "stk-lvl40-030-dir": "3040-10-5300-cll-leg-sd-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
       },
       "3040-10-5400-dll-leg-sd-aws-lvl30-010-dir": {
         "mre-lvl40-010-dir": {
@@ -149,7 +152,8 @@
             "rvb-lvl60-070-dir": "3040-10-5415-jcr-sd-aws-dep-rvb-v0-0-01-lvl70-010-fil.json",
             "stk-lvl60-080-dir": "3040-10-5415-jcr-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
           }
-        }
+        },
+        "stk-lvl40-020-dir": "3040-10-5400-dll-leg-sd-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
       },
       "3040-10-5500-ell-leg-sd-aws-lvl30-010-dir": {
         "ere-lvl40-010-dir": {
@@ -185,7 +189,8 @@
             "rvb-lvl60-070-dir": "3040-10-5505-pcr-pol-sd-aws-dep-rvb-v0-0-01-lvl70-010-fil.json",
             "stk-lvl60-080-dir": "3040-10-5505-pcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
           }
-        }
+        },
+        "stk-lvl40-030-dir": "3040-10-5500-ell-leg-sd-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
       },
       "3040-10-5600-fll-leg-sd-aws-lvl30-010-dir": {
         "mre-lvl40-010-dir": {
@@ -209,7 +214,8 @@
             "rvb-lvl60-070-dir": "3040-10-5605-fcr-pol-sd-aws-dep-rvb-v0-0-01-lvl70-010-fil.json",
             "stk-lvl60-080-dir": "3040-10-5605-fcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
           }
-        }
+        },
+        "stk-lvl40-020-dir": "3040-10-5600-fll-leg-sd-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
       },
       "3040-10-5700-gll-leg-sd-aws-lvl30-010-dir": {
         "mre-lvl40-010-dir": {
@@ -233,8 +239,10 @@
             "rvb-lvl60-070-dir": "3040-10-5705-fcr-pol-sd-aws-dep-rvb-v0-0-01-lvl70-010-fil.json",
             "stk-lvl60-080-dir": "3040-10-5705-fcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
           }
-        }
+        },
+        "stk-lvl40-020-dir": "3040-10-5700-gll-leg-sd-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
       }
-    }
+    },
+    "stk-lvl20-020-dir": "3040-10-26100-all-leg-sd-aws-dep-stk-v0-0-01-lvl30-010-fil.py"
   }
 }
